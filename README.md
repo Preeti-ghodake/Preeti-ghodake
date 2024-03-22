@@ -1,6 +1,8 @@
 # 💫 About Me:
 Welcome to my GitHub profile! I'm a passionate Frontend Developer with a keen eye for detail and a love for crafting immersive user experiences. I completed my Bachelor of Computer Applications (BCA) from Karnataka University Dharwad, where I honed my skills in web development and programming.
 
+[ghodakepreeti5@gmail.com](mailto:your.email@gmail.com).
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preetighodake) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Preeti-ghodake-7a8200205) 
